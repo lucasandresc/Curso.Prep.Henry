@@ -1,0 +1,21 @@
+VARIABLE
+Una variable es una forma de almacenar el valor de algo para usar más tarde. Para crear una variable en JavaScript utilizamos la palabra clave var, seguida de un espacio y el nombre de la variable.
+var = Esta es una palabra clave genérica para “variable”.
+let = let es una nueva palabra clave de ES6, esto asignará una variable muy similar a var, pero con un comportamiento un poco diferente. 
+const = Un const es una variable que no se podrá cambiar. Esto es la abreviatura de “constante”.
+
+STRINGS
+Strings - Bloques de textos y siempre se definen entre comillas. Ej: var nombrePerro =  "firulais";
+
+FUNCIONES, ARGUMENTOS, (RETURN)
+Agrupa codigos, que guarda y voy a utlizar muchas veces.
+Argumentos - Es como declarar una variable dentro de la funcion que va a tomar un valor cuando yo invoque la funcion.
+Todas las funciones siempre RETORNAN algo. Las funciones que no devuelven nada, devuelve por defecto "undefined". Al escribir un RETURN, todo lo que este escrito despues no va a funcionar, la computadora ni lo va a leer.
+
+DECLARACIONES IF
+Nos permite agregar una logica al codigo, con esto podemos hacer preguntas e ir ejecutando distintos codigos dependiendo la situacion.
+Condiciones anidadas - If y else. Tambien If y else if y else. 
+Previo a esto siempre tenemos que declarar la palabra clave, en este caso seria "edad" dandole un valor.
+
+VALORES BOOLEANOS - TRUE FALSE
+Boolean - Se usan unicamente para decir si algo es verdadero o falso, no tiene otro uso. Ej: var meEncantaJaascript = true;
