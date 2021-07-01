@@ -1,0 +1,12 @@
+TAREA DE REDACCION: TEXTO EXPLICATIVO
+
+FOR: Sirven para realizar acciones tantas veces como sean necesarias o requeridas. Dentro debemos declarar la variable que dara el valor para realizar la accion (repetir algo 5, 10, 15 veces)
+
+&&: Este operador significa Y o "AND" en ingles y sirve para evaluar dos o varias expresiones entre si, para dar un resultado verdadero o falso.
+
+
+
+||: Este operador significa O u "OR" en ingles, y sirve para separar declaraciones y verificar si ambas son correctas o hay alguna falsa.
+
+
+!: Este operador es "desigualdad" or "NOT" en ingles, y sirve para demostrar lo contrario a lo visto. Transformar un "true" en "false" o "false" en "true"
